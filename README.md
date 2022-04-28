@@ -50,13 +50,14 @@ See the detail analysis provided alonUg with balanced accuracy scores, precision
 
 ### SMOTEENN Sampling
 
-- Accuracy Score: 51.03%
+- Accuracy Score: 65.48%
 - Precision High Risk: 1%
 - Precision Low Risk: 100%
 - Recall High Risk: 74%
 - Recall Low Risk: 57%
 
-<img width="652" alt="SMOTEENN_Sampling" src="https://user-images.githubusercontent.com/94089680/164954003-d446440c-2893-441a-8f5f-bbbf86ac6d4f.png">
+<img width="890" alt="SOMTEENN_Sampling" src="https://user-images.githubusercontent.com/94089680/165798169-1d5ff76e-8da7-4520-be22-da20cf0e3a27.png">
+
 
 
 ### Balanced Random Forest Classifier
